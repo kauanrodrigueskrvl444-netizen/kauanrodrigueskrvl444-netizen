@@ -5,39 +5,43 @@
 🚀 Transformando código em projetos reais
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Estudando+Front-end;HTML+CSS+e+JavaScript;Construindo+projetos+reais;Sempre+aprendendo+algo+novo" />
+</p>
+
 ---
 
 ## 🚀 Tecnologias que estou estudando
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vscode" />
 </p>
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kauanrodrigueskrvl444-netizen&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanrodrigueskrvl444-netizen&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-
 ## 🔥 Sequência de commits
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kauanrodrigueskrvl444-netizen&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://streak-stats.demolab.com?user=kauanrodrigueskrvl444-netizen&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🧠 Atualmente estudando
+
+```txt
+📚 HTML
+🎨 CSS
+⚡ JavaScript
+📱 Responsividade
+💻 Projetos Front-end
+```
+
 ---
 
 ## 🌎 Redes
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.instagram.com/kauarodz7/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -51,16 +55,15 @@
 
 ---
 
-## 🧠 Atualmente estudando
+## 🎯 Objetivo
 
-- HTML
-- CSS
-- JavaScript
-- Responsividade
-- Projetos Front-end
+```txt
+Me tornar um desenvolvedor Front-end profissional
+e criar projetos cada vez mais avançados 🚀
+```
 
 ---
 
-## 🎯 Objetivo
-
-Me tornar um desenvolvedor Front-end profissional e construir projetos cada vez mais avançados 🚀
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=footer"/>
+</p>
