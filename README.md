@@ -30,7 +30,7 @@
 
 ---
 ## 🏆 Troféus
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2"/>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=kauanrodrigueskrvl444-netizen&theme=tokyonight&no-frame=true&row=1"/>
 </p>
