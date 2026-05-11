@@ -1,11 +1,12 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=250&section=header&text=Kauã%20Rodrigues&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2"/>
 <h1 align="center">👋 Olá, eu sou Kauã</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Front-end+Developer;HTML+CSS+JavaScript;Always+learning+new+things" />
 </p>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2"/>
 <p align="center">
 💻 Front-end em evolução <br>
 🚀 Transformando código em projetos reais
@@ -13,7 +14,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=kauanrodrigueskrvl444-netizen&color=58A6FF&style=for-the-badge"/>
 </p>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2"/>
 <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=kauanrodrigueskrvl444-netizen&theme=tokyonight&hide_border=true"
@@ -32,8 +33,6 @@
 ## 🏆 Troféus
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2"/>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kauanrodrigueskrvl444-netizen&theme=tokyonight&no-frame=true&row=1"/>
-</p>
 
 ## 🧠 Atualmente estudando
 
@@ -44,7 +43,7 @@
 📱 Responsividade
 💻 Projetos Front-end
 ```
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2"/>
 ---
 
 ## 🌎 Redes
@@ -60,7 +59,7 @@
 </a>
 
 </p>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2"/>
 ---
 
 ## 🎯 Objetivo
@@ -69,7 +68,7 @@
 Me tornar um desenvolvedor Front-end profissional
 e criar projetos cada vez mais avançados 🚀
 ```
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2"/>
 ---
 
 <p align="center">
