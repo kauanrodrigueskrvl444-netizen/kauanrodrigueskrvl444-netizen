@@ -21,9 +21,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauanrodrigueskrvl444-netizen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanrodrigueskrvl444-netizen&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEUUSER&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=kauanrodrigueskrvl444-netizen&theme=tokyonight"/>
 
 </div>
 
@@ -42,7 +42,7 @@
 ## 🌎 Redes
 
 <p align="left">
-<a href="SEU LINKEDIN">
+<a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
