@@ -29,6 +29,11 @@
 </p>
 
 ---
+## 🏆 Troféus
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kauanrodrigueskrvl444-netizen&theme=tokyonight&no-frame=true&row=1"/>
+</p>
 
 ## 🧠 Atualmente estudando
 
