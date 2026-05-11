@@ -10,7 +10,9 @@
 💻 Front-end em evolução <br>
 🚀 Transformando código em projetos reais
 </p>
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kauanrodrigueskrvl444-netizen&color=58A6FF&style=for-the-badge"/>
+</p>
 
 <p align="center">
   <img 
