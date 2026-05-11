@@ -44,7 +44,7 @@
 💻 Projetos Front-end
 ```
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2"/>
----
+
 
 ## 🌎 Redes
 
