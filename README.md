@@ -1,4 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Kauã</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Front-end+Developer;HTML+CSS+JavaScript;Always+learning+new+things" />
+</p>
 
 <p align="center">
 💻 Front-end em evolução <br>
