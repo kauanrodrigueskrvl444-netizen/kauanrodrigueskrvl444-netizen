@@ -17,20 +17,18 @@
 <img src="https://komarev.com/ghpvc/?username=kauanrodrigueskrvl444-netizen&color=58A6FF&style=for-the-badge"/>
 </p>
 
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kauanrodrigueskrvl444-netizen&theme=tokyonight&hide_border=true"
+  />
+</p>
+
 ---
 
 ## 🚀 Tecnologias que estou estudando
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,vscode" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2"/>
-
-## 🐍 Atividade
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/kauanrodrigueskrvl444-netizen/kauanrodrigueskrvl444-netizen/output/github-contribution-grid-snake.svg" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2"/>
