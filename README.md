@@ -73,5 +73,4 @@ e criar projetos cada vez mais avançados 🚀
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=footer"/>
 </p>
 <p align="center">
-<img src="LINKDOGIF" width="500px">
-</p>
+
