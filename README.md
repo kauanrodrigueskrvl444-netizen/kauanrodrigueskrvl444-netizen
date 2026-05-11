@@ -17,24 +17,29 @@
 
 ## 📊 Estatísticas GitHub
 
-<div align="center">
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=kauanrodrigueskrvl444-netizen&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+</p>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kauanrodrigueskrvl444-netizen&show_icons=true&theme=radical"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanrodrigueskrvl444-netizen&layout=compact&theme=radical"/>
-
-</div>
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanrodrigueskrvl444-netizen&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
 
 ---
 
 ## 🔥 Sequência de commits
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kauanrodrigueskrvl444-netizen&theme=radical"/>
-
-</div>
-
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kauanrodrigueskrvl444-netizen&theme=tokyonight&hide_border=true"
+  />
+</p>
 ---
 
 ## 🌎 Redes
