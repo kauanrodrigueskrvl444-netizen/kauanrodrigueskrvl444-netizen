@@ -4,7 +4,11 @@
 💻 Front-end em evolução <br>
 🚀 Transformando código em projetos reais
 </p>
-
+---
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Estudando+Front-end;HTML+CSS+e+JavaScript;Construindo+projetos+reais;Sempre+aprendendo+algo+novo" />
+</p>
+---
 ## 🔥 Sequência de commits
 
 <p align="center">
@@ -20,9 +24,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vscode" />
 </p>
-
----
-
 
 ---
 
