@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=250&section=header&text=Kauã%20Rodrigues&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
 <h1 align="center">👋 Olá, eu sou Kauã</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Front-end+Developer;HTML+CSS+JavaScript;Always+learning+new+things" />
@@ -8,9 +11,6 @@
 🚀 Transformando código em projetos reais
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Estudando+Front-end;HTML+CSS+e+JavaScript;Construindo+projetos+reais;Sempre+aprendendo+algo+novo" />
-</p>
 
 <p align="center">
   <img 
