@@ -11,7 +11,7 @@
 
 <p align="left">
   <img 
-    src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"
+    src="https://skillicons.dev/icons?i=html,css,js,vscode"
   />
 </p>
 
@@ -42,9 +42,11 @@
 ## 🌎 Redes
 
 <p align="left">
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
+<a href="https://www.instagram.com/kauarodz7/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
+
 </p>
 
 ---
@@ -55,7 +57,6 @@
 - CSS
 - JavaScript
 - Responsividade
-- Git e GitHub
 - Projetos Front-end
 
 ---
