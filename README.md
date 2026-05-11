@@ -19,10 +19,10 @@
 
 ---
 
-## 🔥 Sequência de commits
+## 🐍 Atividade
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kauanrodrigueskrvl444-netizen&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/kauanrodrigueskrvl444-netizen/kauanrodrigueskrvl444-netizen/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
