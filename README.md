@@ -10,9 +10,7 @@
 ## 🚀 Tecnologias que estou estudando
 
 <p align="left">
-  <img 
-    src="https://skillicons.dev/icons?i=html,css,js,vscode"
-  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode" />
 </p>
 
 ---
@@ -21,9 +19,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauanrodrigueskrvl444-netizen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kauanrodrigueskrvl444-netizen&show_icons=true&theme=radical"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanrodrigueskrvl444-netizen&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanrodrigueskrvl444-netizen&layout=compact&theme=radical"/>
 
 </div>
 
@@ -33,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kauanrodrigueskrvl444-netizen&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=kauanrodrigueskrvl444-netizen&theme=radical"/>
 
 </div>
 
@@ -45,6 +43,10 @@
 
 <a href="https://www.instagram.com/kauarodz7/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </p>
