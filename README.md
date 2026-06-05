@@ -5,11 +5,11 @@
 <h1 align="center">👋 Olá, eu sou o Kauã</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Desenvolvedor+Front-end;HTML+%7C+CSS+%7C+JavaScript;Sempre+aprendendo+coisas+novas" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Desenvolvedor+Full+Stack;HTML+%7C+CSS+%7C+JavaScript;Do+Front-end+ao+Back-end;Sempre+aprendendo+coisas+novas" />
 </p>
 
 <p align="center">
-💻 Front-end em evolução <br>
+💻 Desenvolvedor Full Stack em formação <br>
 🚀 Transformando código em projetos reais
 </p>
 
@@ -40,6 +40,7 @@
 🖌️ Figma
 📱 Responsividade
 💻 Projetos Front-end
+🔙 Back-end (em breve)
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2"/>
@@ -60,8 +61,9 @@
 ## 🎯 Objetivo
 
 ```txt
-Me tornar um desenvolvedor Front-end profissional
-e criar projetos cada vez mais avançados 🚀
+Me tornar um desenvolvedor Full Stack profissional,
+dominando tanto o Front-end quanto o Back-end
+e criar projetos cada vez mais completos 🚀
 ```
 
 ---
