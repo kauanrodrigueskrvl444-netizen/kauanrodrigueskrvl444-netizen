@@ -66,8 +66,8 @@
 ```txt
 Me tornar um desenvolvedor Full Stack profissional,
 dominando tanto o Front-end quanto o Back-end.
-Estudar pra ter conhecimento geral.
-Ser bom em uma unica linguagem.🚀
+Ser bom em uma unica linguagem.
+Evoluir sempre.🚀
 ```
 
 ---
