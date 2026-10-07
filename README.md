@@ -18,7 +18,7 @@ Estudo Análise e Desenvolvimento de Sistemas na Faculdade Flamingo e, em parale
 
 | Projeto | O que é | Link |
 |---|---|---|
-| **[Açaí Ki Delícia](https://github.com/kauanrodrigueskrvl444-netizen/acai-ki-delicia-site)** | Sistema de pedidos completo: montador de açaí passo a passo com preço em tempo real, cardápio por categoria, carrinho, checkout (Pix, dinheiro ou cartão) e pedido pronto no WhatsApp da loja. Projeto entregue e no ar em domínio próprio. | [acaikideliciaperus.com.br](https://acaikideliciaperus.com.br) |
+| **[Açaí Ki Delícia](https://github.com/kauanrodrigueskrvl444-netizen/acai-ki-delicia-site)** | Dois sistemas. Site de pedidos (montador de açaí com preço em tempo real, carrinho, checkout e pedido pronto no WhatsApp) com servidor Node.js/Express, e painel administrativo em Next.js com login, rota de API própria e PostgreSQL no Supabase. Projeto entregue e no ar em domínio próprio. | [acaikideliciaperus.com.br](https://acaikideliciaperus.com.br) |
 | **[Portfólio](https://github.com/kauanrodrigueskrvl444-netizen/portfolio)** | Página única em HTML, CSS e JavaScript puro, sem build e sem framework. 300 KB. | [kauarodrigues.netlify.app](https://kauarodrigues.netlify.app) |
 | **[Barbearia Rocha (demo)](https://github.com/kauanrodrigueskrvl444-netizen/barbearia-rocha-demo)** | Demo de site com agendamento, feita pra prospecção: o dono recebe o site pronto antes de qualquer conversa. | repositório |
 | **[Java](https://github.com/kauanrodrigueskrvl444-netizen/50-Exercicios-Java)** | 95 exercícios resolvidos em Java: condicionais, ternário, switch, arrays. Base do back end que estou fechando. | [50](https://github.com/kauanrodrigueskrvl444-netizen/50-Exercicios-Java) · [45](https://github.com/kauanrodrigueskrvl444-netizen/45-Exercicios-Java) |
@@ -32,6 +32,10 @@ Estudo Análise e Desenvolvimento de Sistemas na Faculdade Flamingo e, em parale
   <img src="https://img.shields.io/badge/CSS-1A1A1A?style=flat-square&logo=css&logoColor=E8E2D9" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=E8E2D9" alt="JavaScript">
   <img src="https://img.shields.io/badge/Java-1A1A1A?style=flat-square&logo=openjdk&logoColor=E8E2D9" alt="Java">
+  <img src="https://img.shields.io/badge/Node.js-1A1A1A?style=flat-square&logo=nodedotjs&logoColor=E8E2D9" alt="Node.js">
+  <img src="https://img.shields.io/badge/Next.js-1A1A1A?style=flat-square&logo=nextdotjs&logoColor=E8E2D9" alt="Next.js">
+  <img src="https://img.shields.io/badge/Supabase-1A1A1A?style=flat-square&logo=supabase&logoColor=E8E2D9" alt="Supabase">
+  <img src="https://img.shields.io/badge/PostgreSQL-1A1A1A?style=flat-square&logo=postgresql&logoColor=E8E2D9" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Figma-1A1A1A?style=flat-square&logo=figma&logoColor=E8E2D9" alt="Figma">
   <img src="https://img.shields.io/badge/Git-1A1A1A?style=flat-square&logo=git&logoColor=E8E2D9" alt="Git">
   <img src="https://img.shields.io/badge/Netlify-1A1A1A?style=flat-square&logo=netlify&logoColor=E8E2D9" alt="Netlify">
